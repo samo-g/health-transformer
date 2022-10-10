@@ -1,0 +1,35 @@
+﻿;;;1;2;3
+1;Truth;Pos;Hand sanitisers;can be used;often.
+1;False;Neg;Hand sanitisers;cannot be used;often.
+2;Truth;Pos;Alcohol-based sanitizers;are safe;for everyone to use.
+2;False;Neg;Alcohol-based sanitizers;are not safe;for everyone to use.
+3;Truth;Pos;Alcohol-based sanitizers;can be used;in religions where alcohol is prohibited.
+3;False;Neg;Alcohol-based sanitizers;cannot be used;in religions where alcohol is prohibited.
+4;Truth;Pos;The amount of alcohol-based sanitizer you use;matters;.
+4;False;Neg;The amount of alcohol-based sanitizer you use;does not matter;.
+5;Truth;Neg;Touching a communal bottle of alcohol-based sanitizer;will not infect ;you.
+5;False;Pos;Touching a communal bottle of alcohol-based sanitizer;will infect ;you.
+6;Truth;Pos;An alcohol-based handrub;is listed;as a WHO essential medicine.
+6;False;Neg;An alcohol-based handrub;is not listed;as a WHO essential medicine.
+7;Truth;Neg;Vitamin and mineral supplements;cannot cure ;COVID-19.
+7;False;Pos;Vitamin and mineral supplements;can cure ;COVID-19.
+8;Truth;Neg;Water or swimming;does not transmit ;the COVID-19 virus.
+8;False;Pos;Water or swimming;transmit;the COVID-19 virus.
+9;Truth;Pos;The likelihood of shoes spreading COVID-19;is very low;.
+9;False;Neg;The likelihood of shoes spreading COVID-19;is not very low;.
+10;Truth;Neg;Adding pepper to your soup or other meals;does not prevent ;or cure COVID-19.
+10;False;Pos;Adding pepper to your soup or other meals;prevents ;or cure COVID-19.
+11;Truth;Neg;Exposing yourself to the sun or temperatures higher than 25°C;does not protect; you from COVID-19.
+11;False;Pos;Exposing yourself to the sun or temperatures higher than 25°C;protects; you from COVID-19.
+12;Truth;Pos;The COVID-19 virus;can spread;in hot and humid climates.
+12;False;Neg;The COVID-19 virus;cannot spread;in hot and humid climates.
+13;Truth;Neg;Cold weather and snow;cannot kill ;the COVID-19 virus.
+13;False;Pos;Cold weather and snow;can kill ;the COVID-19 virus.
+14;Truth;Neg;The COVID-19 virus;cannot be spread;through mosquito bites.
+14;False;Pos;The COVID-19 virus;can be spread;through mosquito bites.
+15;Truth;Neg;Hand dryers;are not effective;in killing the COVID-19 virus.
+15;False;Pos;Hand dryers;are effective;in killing the COVID-19 virus.
+16;Truth;Pos;People of all ages;can be infected;by the COVID-19 virus.
+16;False;Neg;People of all ages;cannot be infected;by the COVID-19 virus.
+17;Truth;Neg;Antibiotics;cannot prevent ;or treat COVID-19.
+17;False;Pos;Antibiotics;can prevent;or treat COVID-19.

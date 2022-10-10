@@ -1,0 +1,33 @@
+﻿;;;1;2;3
+1;Truth;Neg;Le virus de la COVID-19;ne se transmet pas;par l'eau ou par la pratique de la natation.
+1;False;Pos;Le virus de la COVID-19;se transmet;par l'eau ou par la pratique de la natation.
+2;Truth;Pos;La probabilité que le virus à l’origine de la COVID-19 se propage par les chaussures et infecte ainsi les gens;est très faible;.
+2;False;Neg;La probabilité que le virus à l’origine de la COVID-19 se propage par les chaussures et infecte ainsi les gens;n'est pas très faible;.
+3;Truth;Pos;La plupart des personnes qui contractent la COVID-19;en guérissent;.
+3;False;Neg;La plupart des personnes qui contractent la COVID-19;n'en guérissent pas;.
+4;Truth;Neg;Les scanners thermiques;ne permettent pas ;de détecter la COVID-19.
+4;False;Pos;Les scanners thermiques;permettent de ;détecter la COVID-19.
+5;Truth;Neg;Ajouter du piment dans votre soupe ou dans un autre plat;ne permet pas ;de prévenir ni de guérir la COVID-19.
+5;False;Pos;Ajouter du piment dans votre soupe ou dans un autre plat;permet ;de prévenir ou de guérir la COVID-19.
+6;Truth;Neg;Les mouches domestiques;ne transmettent pas;la COVID-19.
+6;False;Pos;Les mouches domestiques;transmettent ;la COVID-19.
+7;Truth;Neg;Les réseaux de téléphonie 5G;ne propagent pas ;la COVID-19.
+7;False;Pos;Les réseaux de téléphonie 5G;propagent ;la COVID-19.
+8;Truth;Pos;Le virus de la COVID-19;peut se transmettre;sous les climats chauds et humides.
+8;False;Neg;Le virus de la COVID-19;ne peut pas se transmettre;sous les climats chauds et humides.
+9;Truth;Neg;Le temps froid et la neige;ne peuvent pas tuer ;le nouveau coronavirus (2019-nCoV).
+9;False;Pos;Le temps froid et la neige;peuvent tuer; le nouveau coronavirus (2019-nCoV).
+10;Truth;Neg;Prendre un bain chaud;ne protège pas;contre le nouveau coronavirus.
+10;False;Pos;Prendre un bain chaud;protège;contre le nouveau coronavirus.
+11;Truth;Neg;Le nouveau coronavirus;ne peut pas être transmis;par les piqûres de moustiques. 
+11;False;Pos;Le nouveau coronavirus;peut être transmis;par les piqûres de moustiques. 
+12;Truth;Neg;S'exposer au soleil ou à des températures supérieures à 25 °C ;n'empêche pas ;de contracter la maladie à coronavirus 2019 (COVID-19).
+12;False;Pos;S'exposer au soleil ou à des températures supérieures à 25 °C;empêche ;de contracter la maladie à coronavirus 2019 (COVID-19).
+13;Truth;Neg;Les lampes ultra-violet (UV);ne doivent jamais servir ;à désinfecter les mains ou d’autres régions de la peau.
+13;False;Pos;Les lampes ultra-violet (UV);doivent servir ;à désinfecter les mains ou d’autres régions de la peau.
+14;Truth;Neg;Manger de l'ail;n'aide pas ;à prévenir la COVID-19.
+14;False;Pos;Manger de l'ail;aide ;à prévenir la COVID-19.
+15;Truth;Pos;La COVID-19;affecte; les personnes de tous âges.
+15;False;Neg;La COVID-19;n'affecte pas; les personnes de tous âges.
+16;Truth;Neg;Les antibiotiques;ne peuvent pas ;prévenir ou traiter la COVID-19.
+16;False;Pos;Les antibiotiques;peuvent;prévenir ou traiter la COVID-19.
